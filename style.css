@@ -1,0 +1,54 @@
+
+body{
+  background-color: lightblue;
+  font: normal 1.1em arial;
+}
+header{
+    color: #f8f8ff;
+    text-align: center;
+} 
+
+section{
+    background-color: #f8f8ff;
+    border-radius: 10px ;
+    padding: 15px;
+    
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.477);
+}
+#inicio{
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 15px;
+  outline: none;
+  padding: 2px;
+  border-radius: 6px;
+}
+#fim{
+  margin-left: 22px;
+  margin-bottom: 15px;
+  outline: none;
+  padding: 2px;
+  border-radius: 6px;
+}
+#passo{
+  margin-left: 3px;
+  outline: none;
+  padding: 2px;
+  border-radius: 6px;
+}
+
+
+.botao{
+  margin-top: 35px;
+  cursor: pointer;
+  
+}
+
+footer{
+  color: #f8f8ff;
+  text-align: center;
+  font-style: italic;
+  margin-top: 20px;
+} 
